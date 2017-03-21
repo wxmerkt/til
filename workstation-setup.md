@@ -5,3 +5,6 @@
 
 Actually works without xorg-edgers
 - Add xorg-edgers ``sudo add-apt-repository ppa:xorg-edgers/ppa ``
+
+
+http://www.debugpoint.com/2014/08/install-gnome-in-ubuntu-14-04-flashback-metacity-replacing-unity/#
